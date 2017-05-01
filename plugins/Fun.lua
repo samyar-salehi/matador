@@ -83,7 +83,7 @@ local function calc(exp)
 	b,c = http.request(url)
 	text = nil
 	if c == 200 then
-    text = 'Result = '..b..'\n____________________\n @MahDiRoO :)'
+    text = 'Result = '..b..'\n____________________\n @ssss3456 :)'
 	elseif c == 400 then
 		text = b
 	else
