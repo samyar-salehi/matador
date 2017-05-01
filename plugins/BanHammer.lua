@@ -1,4 +1,4 @@
---Begin BanHammer.lua By @MahDiRoO
+--Begin BanHammer.lua By @ssss3456
 local function pre_process(msg)
    if msg.to.type ~= 'pv' then
 chat = msg.to.id
